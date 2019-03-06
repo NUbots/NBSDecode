@@ -1,0 +1,6 @@
+xxhash
+tensorflow
+numpy
+protobuf==3.6.1
+opencv-contrib-python
+tqdm
